@@ -28,7 +28,7 @@ for i in range(50):
 
 
 ## Screenshot
-![Screenshot](https://github.com/DevJChen/Stock-Price-Predictor/edit/screenshot.png?raw=true)
+![Screenshot](https://github.com/DevJChen/Stock-Price-Predictor/blob/main/screenshot.png)
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
